@@ -2,4 +2,4 @@
 title: "About Me"
 ---
 
-This is a new website!
+Woohoo!! Data Science
