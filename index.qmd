@@ -1,7 +1,39 @@
----
-title: "Kierst01.github.io.git"
+title: "Hi, I'm Kiersten!"
+image: 
+about:
+  template: broadside
+  links:
+    - icon: github
+      text: Github
+      href: https://www.github.com/kierst01
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/kiersten-pinsky/
+    - icon: envelope
+      text: Email
+      href: mailto:kierstengilberg@gmail.com
 ---
 
-This is a Quarto website.
+I am a student at the University of British Columbia, currently pursuing my Master's in Data Science. I completed my undergraduate degree at UBC in Integrated Science, combining the disciplines of Neuroscience and Genetics.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+---
+
+::: mainbox
+::: {style="padding-left: 10px; padding-right: 10px; display: inline-block;"}
+::: {layout-ncol="1"}
+::: {style="text-align: center;"}
+### [About Me](about.qmd)
+
+Learn more about my experiences and background
+:::
+
+::: {style="text-align: center;"}
+### [Projects](projects.qmd)
+
+Explore some of my open source projects
+:::
+
+:::
+:::
+:::
