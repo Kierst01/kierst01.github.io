@@ -1,5 +1,6 @@
+---
 title: "Hi, I'm Kiersten!"
-image: 
+image: "images/home_page_photo.jpg"
 about:
   template: broadside
   links:

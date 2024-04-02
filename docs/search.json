@@ -4,13 +4,20 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "This is a new website"
+    "text": "Woohoo!! Data Science"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Password Protection Package\n\n\nA python package for increasing your password security\n\n\n\n\n\n\n\n\n\n\nEgg Production Inferential Test\n\n\nEgg Yield Hypothesis Test\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Kierst01.github.io.git",
+    "title": "Hi, I’m Kiersten!",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "I am a student at the University of British Columbia, currently pursuing my Master’s in Data Science. I completed my undergraduate degree at UBC in Integrated Science, combining the disciplines of Neuroscience and Genetics.\n\n\n\n\n\n\nAbout Me\nLearn more about my experiences and background\n\n\n\n\nProjects\nExplore some of my open source projects"
   }
 ]
