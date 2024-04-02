@@ -3,18 +3,30 @@ project:
   output-dir: docs
 
 website:
-  title: "Kierst01.github.io.git"
+  title: "Kiersten Pinsky"
   navbar:
+    background: primary
+    search: true
+    tools:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/kiersten-pinsky/
+      - icon: github
+        href: https://github.com/kierst01
+      - icon: envelope
+        text: Email
+        href: mailto:kierstengilberg@gmail.com
     left:
       - href: index.qmd
-        text: Main page
-      - about.qmd
+        text: Home
+      - href: about.qmd
+        text: About Me
+      - href: projects.qmd
+        text: Projects
+  page-footer: 
+    left: "Copyright 2024, Kiersten Pinsky" 
 
 format:
   html:
-    theme: cosmo
+    theme: lux 
     css: styles.css
     toc: true
-
-
-
