@@ -13,7 +13,7 @@ In addition to my professional interests, I enjoy reading, walking Vancouver's l
 
 ### Education
 
-I am completing my Master's of Data Science in June, after which I am looking to attain a job in the field of data science. This intensive 10-month program has taught me how to formulate questions and use analytical processes to derive insights from data.
+I am completing my Masters of Data Science in June, after which I am looking to attain a job in this field. This program has taught me how to formulate questions and use analytical processes to derive insights from data.
 
 **Key Courses**: Descriptive Statistics and Probability for Data Science, Statistical Inference and Computation, Regression, Bayesian Statistics, Spatial and Temporal Models, Experimentation and Causal Inference, Supervised Machine Learning, Unsupervised Machine Learning.
 
