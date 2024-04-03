@@ -5,7 +5,7 @@ project:
 website:
   title: "Kiersten Pinsky"
   navbar:
-    background: primary
+    background: dark
     search: true
     tools:
       - icon: linkedin
@@ -27,6 +27,8 @@ website:
 
 format:
   html:
-    theme: lux 
+    theme: Journal
     css: styles.css
     toc: true
+    mainfont: sans-serif
+    #fontcolor: "#605d5d"

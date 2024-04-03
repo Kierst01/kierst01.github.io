@@ -1,5 +1,5 @@
 ---
-title: "Hi, I'm Kiersten!"
+title: "Kiersten Pinsky"
 image: "images/home_page_photo.jpg"
 about:
   template: broadside
@@ -15,8 +15,9 @@ about:
       href: mailto:kierstengilberg@gmail.com
 ---
 
-I am a student at the University of British Columbia, currently pursuing my Master's in Data Science. I completed my undergraduate degree at UBC in Integrated Science, combining the disciplines of Neuroscience and Genetics.
+I am a student at the University of British Columbia, currently pursuing my Masters in Data Science. I completed my undergraduate degree at UBC in Integrated Science, combining the disciplines of Neuroscience and Genetics.
 
+I am excited to combine my passion for data science with my background in athletics and find a meanigful role within the field.
 
 ---
 

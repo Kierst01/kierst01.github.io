@@ -1,5 +1,25 @@
 ---
-title: "About Me"
+#title: "About Me"
+image: "images/hiking.jpeg"
+about:
+    template: marquee
 ---
 
-Woohoo!! Data Science
+### Interests
+
+Through my experience as a former competitve swimmer and coach, I realized my passion for athletics. My later work as a nueroscience technician provided me the opprutunity to gather, organize, and disseminate research on biofeedback for the purposes of elevating athletic performance. 
+
+In addition to my professional interests, I enjoy reading, walking Vancouver's local trails, and spending time with friends and family. 
+
+### Education
+
+I am completing my Master's of Data Science in June, after which I am looking to attain a job in the field of data science. This intensive 10-month program has taught me how to formulate questions and use analytical processes to derive insights from data.
+
+**Key Courses**: Descriptive Statistics and Probability for Data Science, Statistical Inference and Computation, Regression, Bayesian Statistics, Spatial and Temporal Models, Experimentation and Causal Inference, Supervised Machine Learning, Unsupervised Machine Learning.
+
+### Achievements
+- 2022 Trek Excellence Scholarship for Continuing Students
+- 2022 Dean of Science Scholarship
+- Achieved the Academic All-Canadian standing from (2016/09) to (2017/04). This is reserved for student-athletes who achieve an academic standing of 80% or higher while competing for a varsity team.
+
+

@@ -1,15 +1,15 @@
 ---
 pagetitle: Projects | Kiersten Pinsky
 title: Projects
-subtitle: "A selection of technical projects"
+#subtitle: ""
 listing:
   contents:
     - path: https://github.com/UBC-MDS/passwordler
-      #image: 
+      image: "images/gears.jpg"
       title: "Password Protection Package"
       description: "A python package for increasing your password security"
     - path: https://github.com/UBC-MDS/Egg-Production-Inferential-Test
-      #image: 
+      image: "images/eggs.jpg"
       title: "Egg Production Inferential Test"
       description: "Egg Yield Hypothesis Test"
   type: grid
